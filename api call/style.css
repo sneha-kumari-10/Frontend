@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: bisque;
+    background-color: blue;
+    text-align: center;
+}

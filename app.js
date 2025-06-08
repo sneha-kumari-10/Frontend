@@ -1,0 +1,1 @@
+console.log("thik hai n ")
